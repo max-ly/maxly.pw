@@ -24,7 +24,15 @@
 		<meta name="apple-mobile-web-app-title" content="Maxly.pw">
 		<meta name="application-name" content="Maxly.pw">
 		<meta name="theme-color" content="#222222">
-        
+        <!-- Social buttons -->
+		<style>
+		div.socialbuttons {
+		position: fixed;
+		right: 0px;
+		bottom: 10px; }
+		</style>
+		<script src="https://apis.google.com/js/platform.js" async defer></script>
+		<script async defer src="https://buttons.github.io/buttons.js"></script>
         
         <!-- Selection -->
         <style>
@@ -77,6 +85,11 @@
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
+		
+		<div class="socialbuttons"><a href="https://twitter.com/maxly_" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @maxly_</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="g-follow" data-href="https://plus.google.com/{pageId}" data-rel="publisher"></div>
+<div class="g-ytsubscribe" data-channelid="UCdu3iQOIVUSyBTOzy27CojA" data-layout="default" data-theme="dark" data-count="hidden"></div>
+<a class="github-button" href="https://github.com/max-ly" aria-label="Follow @max-ly on GitHub">Follow @max-ly</a></div>
 		
 	</body>
 </html>
