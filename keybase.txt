@@ -4,9 +4,9 @@ https://keybase.io/maxly
 
 I hereby claim:
 
-  * I am an admin of https://www.maxly.pw
+  * I am an admin of https://maxly.pw
   * I am maxly (https://keybase.io/maxly) on keybase.
-  * I have a public key ASDDPMruXCP1YxIHtvez4XqlX_jCZ5GP_YA8Su-Qx_Mk5Ao
+  * I have a public key with fingerprint 74DA 0D5B FBAE ED14 C04E  60D2 F755 6861 3275 6232
 
 To do so, I am signing this object:
 
@@ -14,37 +14,57 @@ To do so, I am signing this object:
     "body": {
         "key": {
             "eldest_kid": "0101f0c494e6e4ee1b8ed0a7855c7886f157702cfbea83b794053e18f3777880eb9f0a",
+            "fingerprint": "74da0d5bfbaeed14c04e60d2f755686132756232",
             "host": "keybase.io",
-            "kid": "0120c33ccaee5c23f5631207b6f7b3e17aa55ff8c267918ffd803c4aef90c7f324e40a",
+            "key_id": "f755686132756232",
+            "kid": "0101f0c494e6e4ee1b8ed0a7855c7886f157702cfbea83b794053e18f3777880eb9f0a",
             "uid": "d4b278405a155d8566d129468da1e219",
             "username": "maxly"
         },
+        "revoke": {
+            "sig_ids": [
+                "a2d77c0a888d56bb2a725f4a05150b24c8a402c72cfbdfbfa859fa1d07bff9620f"
+            ]
+        },
         "service": {
-            "hostname": "www.maxly.pw",
+            "hostname": "maxly.pw",
             "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.16"
-    },
-    "ctime": 1469118560,
-    "expire_in": 504576000,
-    "merkle_root": {
-        "ctime": 1469118487,
-        "hash": "de54f3866880a2d443db7e056e5af40e3fe9dc0a4f24a596364007f5f44fbe879dee64a6287d9522cc6be9de3ea9aa1c80b9d399a67f1a9b83cc47682279858b",
-        "seqno": 536300
-    },
-    "prev": "b70e4db0c93d0ca0a7edb5559a9ba77178025599d9d237a6749a2ee875078eff",
-    "seqno": 16,
+    "ctime": 1469118708,
+    "expire_in": 157680000,
+    "prev": "4b85d242b57ba0ff2dcd557d4e99b444eae462ea5f948944c92aa93edd0e8fa8",
+    "seqno": 17,
     "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwzzK7lwj9WMSB7b3s+F6pV/4wmeRj/2APErvkMfzJOQKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjBjNDk0ZTZlNGVlMWI4ZWQwYTc4NTVjNzg4NmYxNTc3MDJjZmJlYTgzYjc5NDA1M2UxOGYzNzc3ODgwZWI5ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzMzY2NhZWU1YzIzZjU2MzEyMDdiNmY3YjNlMTdhYTU1ZmY4YzI2NzkxOGZmZDgwM2M0YWVmOTBjN2YzMjRlNDBhIiwidWlkIjoiZDRiMjc4NDA1YTE1NWQ4NTY2ZDEyOTQ2OGRhMWUyMTkiLCJ1c2VybmFtZSI6Im1heGx5In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cubWF4bHkucHciLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ2OTExODU2MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDY5MTE4NDg3LCJoYXNoIjoiZGU1NGYzODY2ODgwYTJkNDQzZGI3ZTA1NmU1YWY0MGUzZmU5ZGMwYTRmMjRhNTk2MzY0MDA3ZjVmNDRmYmU4NzlkZWU2NGE2Mjg3ZDk1MjJjYzZiZTlkZTNlYTlhYTFjODBiOWQzOTlhNjdmMWE5YjgzY2M0NzY4MjI3OTg1OGIiLCJzZXFubyI6NTM2MzAwfSwicHJldiI6ImI3MGU0ZGIwYzkzZDBjYTBhN2VkYjU1NTlhOWJhNzcxNzgwMjU1OTlkOWQyMzdhNjc0OWEyZWU4NzUwNzhlZmYiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAU0DKXE95fmf0kzfeWWvEFzGU8qdWhx8ytiP4JfcTGdmWJrF+xbMPSPxyqTtsQkgbmFa34m6KNdXiY0uqUBYiDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDOVDZlmbjOpDiczDpEhHLVI6k9FU8aEfAt7UvRfJByjo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMJpAnicrZJfaBxFHMcvf6ztqahtIIFDCuNDg0nLzNzMzuxRQU1ppSX+q22jsZwz
+O79JN7ncXnbvLgmlLxWC1bZKESyCWCVS0loRqmJsRRuCQQrm/IsgaGkfjJj2QRS1
+odXZoOCDj+7LsjPf3+f3md/O7C0tmWzT1p8f0J1HGoWm8+cu1zK7nv/9l71IR2Yc
+FfaiIVh+QclAUi0OhQYVECaYWBwwn4EHDIBoCQYrITkPhJSeJVwITAOrQcm8Fj7D
+PA9E2rwQbh+D9i1WqBvZsDwAcSUOy1WHFcwobLi2WgEYwgLs+NhQKzj3pEfyVHCP
+5qkr3BMlaYWT0yqBDWHk1txHcVnvP/L/s3dtGWeYpkK6jCKcG8k9zxDqM08aRYAS
+Pw0mEJfVMLj0sBorjaN93SiGejQE6VCTcMAZJ6jQjxQ1QgRYSSkN97SmSlBumcKc
+cKwpC6RizkykcsZqqyT3rSIGC22t71Fs0W7Hdu3qYbAMT0f079YbKqNOqBJH1SiI
+Sm51T7VaSQqpUXW8ksZGQRf/BhR1WDbu57iKOsRJGJVRgbhkUA1TImGeT4gUWHYj
+GKuEMRTDNMGFJ7F70j5Qd0imJTeUUc2FVthaagLDuTAMfF8zxkAB8ygobn0mfcYC
+nyrl58EYDNIdEqVHGilHji2cpxpwTDe1sqrWYkD7Zj56ojXTlM2suKE5vbWZ7Krb
+/rnLHbUb/xxsPtl+08ex//ipXdv2Pzp//Exftr2+re/X+M2OlsLg22vD1W1LF+59
+sTT/zln7XLa3a/tc/ah3sOvOGbRw4Ouew2sG1j59uf/7izuvR73vHf+ip3liU26h
+bXPzlc2TnXPXpjre3TqyqXX7W9B/9LUdF+5ecejTpWdHv/r2t8eOfXZuXV+UazR+
+bP9u8uXd6pubTx+6tvjSxVPXiV3z0/udV/1bc+tbH7qjXjrQ8+Eb0zMbp1c+dfaS
+euGeWbRycfX5seIzuSNJ7ZPe4tXJE3R+1YktS4vHHhlcQA/un91yaeN9V/5ou708
+dfCuV/Hwl69MtO8YKf3Q+vnDucYHZ7run1vC070T6w4/+Xpj6nTLXx3VWBc=
+=ExD6
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
