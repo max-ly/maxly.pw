@@ -29,8 +29,15 @@
 		div.socialbuttons {
 		align: left;
 		position: absolute;
-		left: 6px;
+		left: 20px;
 		bottom: 6px;
+		}
+		
+		@media screen and (max-width: 600px) {
+		  div.socialbuttons {
+			visibility: hidden;
+			display: none;
+		  }
 		}
 		</style>
 		<script src="https://apis.google.com/js/platform.js" async defer></script>
