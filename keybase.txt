@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/maxly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.maxly.pw
+  * I am maxly (https://keybase.io/maxly) on keybase.
+  * I have a public key ASDDPMruXCP1YxIHtvez4XqlX_jCZ5GP_YA8Su-Qx_Mk5Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f0c494e6e4ee1b8ed0a7855c7886f157702cfbea83b794053e18f3777880eb9f0a",
+            "host": "keybase.io",
+            "kid": "0120c33ccaee5c23f5631207b6f7b3e17aa55ff8c267918ffd803c4aef90c7f324e40a",
+            "uid": "d4b278405a155d8566d129468da1e219",
+            "username": "maxly"
+        },
+        "service": {
+            "hostname": "www.maxly.pw",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1469118560,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1469118487,
+        "hash": "de54f3866880a2d443db7e056e5af40e3fe9dc0a4f24a596364007f5f44fbe879dee64a6287d9522cc6be9de3ea9aa1c80b9d399a67f1a9b83cc47682279858b",
+        "seqno": 536300
+    },
+    "prev": "b70e4db0c93d0ca0a7edb5559a9ba77178025599d9d237a6749a2ee875078eff",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwzzK7lwj9WMSB7b3s+F6pV/4wmeRj/2APErvkMfzJOQKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjBjNDk0ZTZlNGVlMWI4ZWQwYTc4NTVjNzg4NmYxNTc3MDJjZmJlYTgzYjc5NDA1M2UxOGYzNzc3ODgwZWI5ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzMzY2NhZWU1YzIzZjU2MzEyMDdiNmY3YjNlMTdhYTU1ZmY4YzI2NzkxOGZmZDgwM2M0YWVmOTBjN2YzMjRlNDBhIiwidWlkIjoiZDRiMjc4NDA1YTE1NWQ4NTY2ZDEyOTQ2OGRhMWUyMTkiLCJ1c2VybmFtZSI6Im1heGx5In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cubWF4bHkucHciLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ2OTExODU2MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDY5MTE4NDg3LCJoYXNoIjoiZGU1NGYzODY2ODgwYTJkNDQzZGI3ZTA1NmU1YWY0MGUzZmU5ZGMwYTRmMjRhNTk2MzY0MDA3ZjVmNDRmYmU4NzlkZWU2NGE2Mjg3ZDk1MjJjYzZiZTlkZTNlYTlhYTFjODBiOWQzOTlhNjdmMWE5YjgzY2M0NzY4MjI3OTg1OGIiLCJzZXFubyI6NTM2MzAwfSwicHJldiI6ImI3MGU0ZGIwYzkzZDBjYTBhN2VkYjU1NTlhOWJhNzcxNzgwMjU1OTlkOWQyMzdhNjc0OWEyZWU4NzUwNzhlZmYiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAU0DKXE95fmf0kzfeWWvEFzGU8qdWhx8ytiP4JfcTGdmWJrF+xbMPSPxyqTtsQkgbmFa34m6KNdXiY0uqUBYiDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDOVDZlmbjOpDiczDpEhHLVI6k9FU8aEfAt7UvRfJByjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maxly
+
+==================================================================
